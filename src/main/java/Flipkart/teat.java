@@ -11,7 +11,7 @@ public class teat {
 		// TODO Auto-generated method stub
 WebDriverManager.chromedriver().setup();
 WebDriver driver=new ChromeDriver();
-
+System.out.println("finish");
 	}
 
 }
